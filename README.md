@@ -3,7 +3,7 @@
 <h align = "left"><img src = "https://github-readme-stats.vercel.app/api?username=MeNixq&theme=radical" alt = "Stats" /></h><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeNixq&hide=TeX&layout=compact&theme=radical)
 
- <h2>🚀 Some things I use</h2>
+<h2>🚀 Some things I use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
