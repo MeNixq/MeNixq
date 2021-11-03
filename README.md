@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me Guilded / Discord
 
-<h align = "left"><img src = "https://github-readme-stats.vercel.app/api?username=CorwinDev&theme=radical" alt = "Stats" /></h><br>
+<h align = "left"><img src = "https://github-readme-stats.vercel.app/api?username=MeNixq&theme=radical" alt = "Stats" /></h><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorwinDev&hide=TeX&layout=compact&theme=ra
